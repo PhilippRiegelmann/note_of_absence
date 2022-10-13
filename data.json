@@ -1,0 +1,14 @@
+{"pr":{
+    "first_name":"Philipp",
+    "last_name" : "Riegelmann",
+    "gender" : "male",
+    "email" : "riegelmann@carbocon-gmbh.de",
+    "phone_extension" : "517"
+},
+"jh":{
+    "first_name":"Jennifer",
+    "last_name" : "Hoinka",
+    "gender" : "female",
+    "email" : "hoinka@carbocon-gmbh.de",
+    "phone_extension" : "514"
+}}
