@@ -1,6 +1,6 @@
-# GERMAN AND ENGLISH ABSENCE NOTE
+# GERMAN AND ENGLISH NOTE OF ABSENCE
 
-This Python script is used to create absence notes in German and English.
+This Python script is used to create note of absence in German and English.
 To use this script you first need to update the following files:
 
 ## data.json
@@ -48,14 +48,14 @@ To use this script you first need to update the following files:
 }
 ```
 
-- sender: Key of the employee, which wants to create the absence note
+- sender: Key of the employee, which wants to create the note of absence
 - representative: Key of the employee representing the sender
 - date_from: Start of the absence in english format YYYY/MM/DD
 - date_to: End of the absence in english format YYYY/MM/DD
 
 # Usage
 
-To create the file message.txt, which will include your absence note run the following command in your terminal.
+To create the file message.txt, which will include your note of absence run the following command in your terminal.
 
 ```
 python create.py
