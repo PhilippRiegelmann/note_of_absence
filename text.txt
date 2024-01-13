@@ -6,11 +6,7 @@ Vom {date_from_de} bis {date_to_de} bin ich leider nicht zu erreichen.
 
 Während meiner Abwesenheit werden keine Nachrichten weitergeleitet.
 
-In dringenden Fällen wenden Sie sich bitte an {representative_fullname}. Sie erreichen {foa_de} {representative_lastname} per
-
-E-Mail {representative_email} oder telefonisch unter {representative_phone_de}.
-
-Bei allgemeinen Fragen können Sie sich mit Ihrem Anliegen jederzeit auch per E-Mail an info@carbocon-gmbh.de wenden oder Sie erreichen uns unter der Telefonnummer 0351 48205 500.
+In dringenden Fällen wenden Sie sich bitte an {representative_fullname}. Sie erreichen {foa_de} {representative_lastname} per E-Mail {representative_email} oder telefonisch unter {representative_phone_de}.
 
 Mit freundlichen Grüßen
 
@@ -25,8 +21,6 @@ thank you for your e-mail. This is an automatic reply.
 I am out of the office from {date_from_en} until {date_to_en}. Your e-mail will not be forwarded.
 
 In urgent cases, please contact {foa_en} {representative_fullname} via e-mail {representative_email} or telephone {representative_phone_en}.
-
-For general enquiries and/or further assistance you can contact us via e-mail info@carbocon-gmbh.de or telephone 0049 (0)351 48205 500.
 
 Kind regards,
 

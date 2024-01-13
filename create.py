@@ -47,11 +47,12 @@ def convert_date(date):
 def main():
     # read employee-database
     database = read_database("data.json")
+    employees = database["employees"]
     # read input-file
     input = read_input("input.json")
     # set sender and representative
-    sender = database[input["sender"]]
-    representative = database[input["representative"]]
+    sender = employees[input["sender"]]
+    representative = employees[input["representative"]]
     # set dates
     date_from_de, date_from_en = convert_date(input["date_from"])
     date_to_de, date_to_en = convert_date(input["date_to"])
@@ -67,8 +68,8 @@ def main():
         foa_en = "Mrs."
     representative_lastname = representative["last_name"]
     representative_email = representative["email"]
-    representative_phone_de = "0351 48205 " + representative["phone_extension"]
-    representative_phone_en = "0049 (0)351 48205 " + representative["phone_extension"]
+    representative_phone_de = database["company_basic_number_de"] + "" + representative["phone_extension"]
+    representative_phone_en = database["company_basic_number_en"] + "" + representative["phone_extension"]
     sender_fullname = sender["first_name"] + " " + sender["last_name"]
     # create text
     text = read_text("text.txt").format(
