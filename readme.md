@@ -56,4 +56,7 @@ To use this script you first need to update the following files:
 # Usage
 
 To create the file message.txt, which will include your absence note run the following command in your terminal.
-`python create.py`
+
+```
+python create.py
+```
