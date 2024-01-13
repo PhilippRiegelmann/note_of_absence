@@ -29,7 +29,7 @@ To use this script you first need to update the following files:
 ```
 
 - company_basic_number_de: Fill in the basic number of your company in german format
-- company_basic_number_en: Fill in the basic number of your company in enlish format
+- company_basic_number_en: Fill in the basic number of your company in english format
 - employees (Please choose a own key for each employee):
   - first_name: First name of employee
   - last_name: Last name of employee
@@ -56,4 +56,4 @@ To use this script you first need to update the following files:
 # Usage
 
 To create the file message.txt, which will include your absence note run the following command in your terminal.
-''' python create.py '''
+`python create.py`
