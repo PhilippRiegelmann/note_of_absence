@@ -30,13 +30,12 @@ To use this script you first need to update the following files:
 
 - company_basic_number_de: Fill in the basic number of your company in german format
 - company_basic_number_en: Fill in the basic number of your company in enlish format
-- employees:
+- employees (Please choose a own key for each employee):
   - first_name: First name of employee
   - last_name: Last name of employee
   - gender: male / female
   - email: Email adress of employee
   - phone_extension: Phone extension of employee
-    Please choose a own key for each employee
 
 ## input.json
 
