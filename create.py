@@ -60,12 +60,6 @@ def main():
     representative_fullname = (
         representative["first_name"] + " " + representative["last_name"]
     )
-    if representative["gender"] == "male":
-        foa_de = "Herrn"
-        foa_en = "Mr."
-    else:
-        foa_de = "Frau"
-        foa_en = "Mrs."
     representative_lastname = representative["last_name"]
     representative_email = representative["email"]
     representative_phone_de = database["company_basic_number_de"] + "" + representative["phone_extension"]
@@ -78,8 +72,6 @@ def main():
         date_from_en=date_from_en,
         date_to_en=date_to_en,
         representative_fullname=representative_fullname,
-        foa_de=foa_de,
-        foa_en=foa_en,
         representative_lastname=representative_lastname,
         representative_email=representative_email,
         representative_phone_de=representative_phone_de,

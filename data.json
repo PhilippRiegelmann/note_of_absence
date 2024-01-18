@@ -5,14 +5,12 @@
         "pr": {
             "first_name": "Philipp",
             "last_name": "Riegelmann",
-            "gender": "male",
             "email": "philipp.riegelmann@mail.com",
             "phone_extension": "042"
         },
         "jd": {
             "first_name": "Jane",
             "last_name": "Doe",
-            "gender": "female",
             "email": "jane.doe@mail.com",
             "phone_extension": "001"
         }

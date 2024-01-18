@@ -13,14 +13,12 @@ To use this script you first need to update the following files:
         "pr": {
             "first_name": "Philipp",
             "last_name": "Riegelmann",
-            "gender": "male",
             "email": "philipp.riegelmann@mail.com",
             "phone_extension": "042"
         },
         "jd": {
             "first_name": "Jane",
             "last_name": "Doe",
-            "gender": "female",
             "email": "jane.doe@mail.com",
             "phone_extension": "001"
         }
@@ -33,7 +31,6 @@ To use this script you first need to update the following files:
 - employees (Please choose a own key for each employee):
   - first_name: First name of employee
   - last_name: Last name of employee
-  - gender: male / female
   - email: Email adress of employee
   - phone_extension: Phone extension of employee
 

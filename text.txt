@@ -6,7 +6,7 @@ Vom {date_from_de} bis {date_to_de} bin ich leider nicht zu erreichen.
 
 Während meiner Abwesenheit werden keine Nachrichten weitergeleitet.
 
-In dringenden Fällen wenden Sie sich bitte an {representative_fullname}. Sie erreichen {foa_de} {representative_lastname} per E-Mail {representative_email} oder telefonisch unter {representative_phone_de}.
+In dringenden Fällen wenden Sie sich bitte an {representative_fullname} per E-Mail {representative_email} oder telefonisch unter {representative_phone_de}.
 
 Mit freundlichen Grüßen
 
@@ -20,7 +20,7 @@ thank you for your e-mail. This is an automatic reply.
 
 I am out of the office from {date_from_en} until {date_to_en}. Your e-mail will not be forwarded.
 
-In urgent cases, please contact {foa_en} {representative_fullname} via e-mail {representative_email} or telephone {representative_phone_en}.
+In urgent cases, please contact {representative_fullname} via e-mail {representative_email} or telephone {representative_phone_en}.
 
 Kind regards,
 
